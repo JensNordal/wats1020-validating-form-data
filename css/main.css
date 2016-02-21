@@ -4,7 +4,9 @@
    Author's custom styles
    ========================================================================== */
 
-
+#your-name-error, #your-address-error, #your-city-error, #your-state-error, #your-zip-error, #card-holder-name-error, #card-number-error, #expiry-month-error, #expiry-year-error, #cvv-error, #shipping-method-error {
+    color: red;
+}
 
 
 
