@@ -14,7 +14,6 @@ $(document).on('ready', function(){
               required: true,
               maxlength: 128,
               lettersonly: true
-
             },
 
             "your-address": {
